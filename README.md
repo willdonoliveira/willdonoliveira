@@ -1,47 +1,49 @@
-👋 Olá, eu sou o Willdon Oliveira!
-Sou um entusiasta da tecnologia e desenvolvedor, apaixonado por transformar ideias em soluções digitais que fazem a diferença. Bem-vindo(a) ao meu espaço no GitHub!
+👋 Olá! Eu sou o Willdon Oliveira.
+Sou um Entusiasta de Tecnologia e Iniciante em Engenharia de Software, focado em adquirir conhecimento e aplicar os fundamentos da programação em projetos práticos. Estou no início da minha jornada e ansioso para crescer e colaborar.
 
-💻 O que estou fazendo e aprendendo
+📚 Onde estou e o que estou buscando
 🔭 Atualmente estou trabalhando em...
 
-Desenvolvimento de um aplicativo mobile (Android e iOS) usando React Native, focado em [Mencione o setor, ex: finanças pessoais, saúde, etc.].
+Refinando a lógica de programação através de desafios e exercícios em plataformas como [Mencione a plataforma, ex: LeetCode/HackerRank].
 
-Aprimorando a arquitetura de microsserviços para um projeto de e-commerce usando Node.js e Docker.
+Desenvolvendo pequenos projetos de console usando Python para aplicar conceitos de Estruturas de Dados.
 
 🌱 Atualmente estou aprendendo...
 
-Avançando em TypeScript para projetos mais robustos e escaláveis.
+Os princípios de Orientação a Objetos (POO) utilizando Java ou C++.
 
-Explorando as novidades do framework [Seu framework favorito, ex: Next.js/NestJS] e suas práticas de deploy na nuvem (AWS/Azure).
+Fundamentos de Desenvolvimento Web (HTML, CSS e JavaScript básico).
+
+Entendendo o fluxo de trabalho do Git e GitHub para controle de versão.
 
 👯 Estou procurando colaborar em...
 
-Projetos open source que utilizam JavaScript/TypeScript e React/React Native.
+Projetos de estudo para iniciantes ("For Beginners"), onde eu possa contribuir com código simples e aprender sobre a dinâmica de equipe.
 
-Iniciativas que envolvam código limpo e metodologias ágeis (Scrum/Kanban).
+Repositórios que ofereçam tutoriais ou documentação para novatos em determinada tecnologia.
 
 🤔 Estou procurando ajuda com...
 
-Melhores práticas de CI/CD (Integração e Entrega Contínuas) para automatizar o deploy dos meus projetos full-stack.
+Melhores práticas para nomeação de variáveis e funções (código limpo).
 
-💬 Vamos conversar!
+Dicas sobre recursos e materiais para aprofundar em Engenharia de Software (livros, cursos, bootcamps).
+
+💬 Vamos conversar e aprender juntos!
 💬 Me pergunte sobre...
 
-Desenvolvimento Front-end e Back-end (full-stack).
+Os desafios de aprender Python/Java como primeira linguagem.
 
-React Native para criação de apps multiplataforma.
+Minhas experiências em cursos e bootcamps.
 
-Como começar a contribuir para projetos open source.
+O que estou lendo no momento sobre Engenharia de Software.
 
 📫 Como me contatar:
 
-[Seu LinkedIn] - Ótimo para networking profissional.
+[Seu LinkedIn] - Ótimo para networking e conexões profissionais.
 
-[Seu Email] - Para projetos mais diretos.
-
-Sinta-se à vontade para me enviar uma DM no [Seu Twitter/Outra rede social].
+[Seu Email] - Para dúvidas e sugestões de estudo.
 
 🎉 Um pouco mais sobre mim
 😄 Pronomes: Ele/Dele (He/Him)
 
-⚡ Curiosidade (Fato divertido): Nos fins de semana, troco o teclado por uma [Mencione um hobby inesperado, ex: trilha, culinária exótica, guitarra], pois acredito que um bom código é como uma boa receita: precisa de criatividade e equilíbrio!
+⚡ Curiosidade (Fato divertido): Antes de codificar, eu sempre dedico 5 minutos para desenhar um pequeno fluxograma do que pretendo fazer. Isso ajuda a organizar as ideias antes de escrever a primeira linha de código!
