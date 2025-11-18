@@ -4,13 +4,11 @@ Sou um Entusiasta de Tecnologia e Iniciante em Engenharia de Software, focado em
 📚 Onde estou e o que estou buscando
 🔭 Atualmente estou trabalhando em...
 
-Refinando a lógica de programação através de desafios e exercícios em plataformas como [Mencione a plataforma, ex: LeetCode/HackerRank].
+Refinando a lógica de programação através de desafios e exercícios em plataformas como DIO.
 
 Desenvolvendo pequenos projetos de console usando Python para aplicar conceitos de Estruturas de Dados.
 
-🌱 Atualmente estou aprendendo...
-
-Os princípios de Orientação a Objetos (POO) utilizando Java ou C++.
+🌱 Atualmente estou aprendendo a linguagem Python.
 
 Fundamentos de Desenvolvimento Web (HTML, CSS e JavaScript básico).
 
@@ -41,7 +39,7 @@ O que estou lendo no momento sobre Engenharia de Software.
 
 [Seu LinkedIn] - Ótimo para networking e conexões profissionais.
 
-[Seu Email] - Para dúvidas e sugestões de estudo.
+willdonestudante@gmail.com - Para dúvidas e sugestões de estudo.
 
 🎉 Um pouco mais sobre mim
 😄 Pronomes: Ele/Dele (He/Him)
